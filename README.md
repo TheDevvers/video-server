@@ -9,8 +9,9 @@
 [MediScan](https://mediscan.care) gives you easy access to wait times for hospitals nearby and allows you to self diagnose so you can have the best medical experience 🚀!
 The app is split into two main categories: Giving hospital wait times and predicting injuries or diseases through a convolutional neural network (CNN) model.
 
-Source Code for Website: https://github.com/TheDevvers/www
-Source Code for AI Model and API: https://github.com/TheDevvers/model-api
+#### Source Code for Website: https://github.com/TheDevvers/www
+#### Source Code for AI Model and API: https://github.com/TheDevvers/model-api
+
 ---
 ## About our Data:
 Our data is completely dynamic. The dataset from [CMS](https://data.cms.gov/) is updated every few weeks, so our hospital wait times are updated automatically.
